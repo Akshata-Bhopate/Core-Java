@@ -1,8 +1,9 @@
-package Variables;
+// Sum Of Two Numbers
+package CoreJava;
 
 import java.util.Scanner;
 
-public class NewClass {
+public class Main {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
@@ -13,6 +14,7 @@ public class NewClass {
 		int b = obj.nextInt();
 		int sum = a + b;
 		System.out.println("a + b :" + sum);
+
 	}
 
 }
